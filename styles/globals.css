@@ -34,4 +34,21 @@ h3 {
   font-size: 3rem;
 }
 
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.contenedor {
+  max-width: 130rem;
+  margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
+}
+
 
